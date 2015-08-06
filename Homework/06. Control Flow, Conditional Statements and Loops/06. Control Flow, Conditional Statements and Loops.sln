@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1. Class Chef in CSharp", "Task 1. Class Chef in CSharp\Task 1. Class Chef in CSharp.csproj", "{BECA2545-C89E-4055-9117-75A38E62E5EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2. Refactor the following if statements", "Task 2. Refactor the following if statements\Task 2. Refactor the following if statements.csproj", "{E71FCF12-381A-4457-B4D2-D7BDE3C4325F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money", "Money\Money.csproj", "{8F1EEC10-6A4B-497A-B0E0-600F98600931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encoding Sum", "Encoding Sum\Encoding Sum.csproj", "{A9FDA925-4D7E-4456-8A3C-7F332FC25B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maslan", "Maslan\Maslan.csproj", "{4529D2BE-47F8-4394-A1A4-0863C6DB283F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube3D", "Cube3D\Cube3D.csproj", "{FD969238-921E-41B9-BDF4-67B983F593B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequences of Bits", "Sequences of Bits\Sequences of Bits.csproj", "{BE2F5AF1-2791-4723-A105-D3C211A1057E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECA2545-C89E-4055-9117-75A38E62E5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECA2545-C89E-4055-9117-75A38E62E5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECA2545-C89E-4055-9117-75A38E62E5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECA2545-C89E-4055-9117-75A38E62E5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71FCF12-381A-4457-B4D2-D7BDE3C4325F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71FCF12-381A-4457-B4D2-D7BDE3C4325F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71FCF12-381A-4457-B4D2-D7BDE3C4325F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71FCF12-381A-4457-B4D2-D7BDE3C4325F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1EEC10-6A4B-497A-B0E0-600F98600931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1EEC10-6A4B-497A-B0E0-600F98600931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1EEC10-6A4B-497A-B0E0-600F98600931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1EEC10-6A4B-497A-B0E0-600F98600931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FDA925-4D7E-4456-8A3C-7F332FC25B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FDA925-4D7E-4456-8A3C-7F332FC25B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FDA925-4D7E-4456-8A3C-7F332FC25B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FDA925-4D7E-4456-8A3C-7F332FC25B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4529D2BE-47F8-4394-A1A4-0863C6DB283F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4529D2BE-47F8-4394-A1A4-0863C6DB283F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4529D2BE-47F8-4394-A1A4-0863C6DB283F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4529D2BE-47F8-4394-A1A4-0863C6DB283F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD969238-921E-41B9-BDF4-67B983F593B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD969238-921E-41B9-BDF4-67B983F593B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD969238-921E-41B9-BDF4-67B983F593B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD969238-921E-41B9-BDF4-67B983F593B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2F5AF1-2791-4723-A105-D3C211A1057E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2F5AF1-2791-4723-A105-D3C211A1057E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2F5AF1-2791-4723-A105-D3C211A1057E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2F5AF1-2791-4723-A105-D3C211A1057E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
