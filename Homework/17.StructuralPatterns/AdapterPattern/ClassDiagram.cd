@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdapterPattern.AdvancedCalculator" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAgAAAAAIAEAAAAAAEAAAAAAAAAAAAAAUg=</HashCode>
+      <FileName>AdvancedCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AdapterPattern.Program" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdapterPattern.SimpleCalculatorAdapter" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQg=</HashCode>
+      <FileName>SimpleCalculatorAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="AdapterPattern.IAdvancedCalculator" Collapsed="true">
+    <Position X="0.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAgAAAAAIAEAAAAAAEAAAAAAAAAAAAAAUg=</HashCode>
+      <FileName>IAdvancedCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="AdapterPattern.ISimpleCalculator" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQg=</HashCode>
+      <FileName>ISimpleCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
